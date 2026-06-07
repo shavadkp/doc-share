@@ -1,4 +1,21 @@
-# Submission Contents
+## Deployment Status
+
+The application is fully functional and runs locally.
+
+All required features have been implemented and tested:
+
+* Authentication
+* Document CRUD
+* Rich text editing
+* File upload
+* Document sharing
+* Persistence
+* Automated tests
+
+The source code is available in the public GitHub repository.
+
+A production deployment was started but not finalized before submission. Detailed local setup instructions are included in README.md so reviewers can run the application locally.
+
 
 This submission includes:
 
@@ -52,7 +69,7 @@ This submission includes:
 * SQLite database
 * Persistent document storage
 
-### Testing
+
 
 Automated tests included for:
 
